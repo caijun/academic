@@ -8,8 +8,3 @@ Only update the softwares when necessary, such as you need to use the new featur
 
 ## Don't waste time on collecting papers
 When you following the most recent papers, you would find lots of interesting papers in other fields. You should narrow your interests and focus on the papers relevant to your current research topic (e.g., influenza). Don't waste time on downloading those papers and reading them. Focus on your current project and finish it, then you can start another new project. By completing projects one by one, finally you would find yourself have done great jobs and make rapid progress.
-
-## Useful websites
-- [Overleaf](https://www.overleaf.com/): Real-time Collaborative Writing and Publishing Tools with Integrated PDF Preview
-- [Find and edit CSL citation styles](http://editor.citationstyles.org/about/)
-- [VizioMetrics](http://viziometrics.org/): search equations, diagrams, visualizations, and photographs in scientific papers.
